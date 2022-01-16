@@ -1,7 +1,7 @@
 # revit
 Python scripts for Revit
 
-This files are used in pyrevit. For using in RevitPythonShell just deletes this lines :
+This files are used in pyrevit. For using in RevitPythonShell just delete this lines :
 ```
 __doc__ =
 __title__ =
