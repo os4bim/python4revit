@@ -1,5 +1,4 @@
-# revit
-Python scripts for Revit
+# Python scripts for Revit
 
 This files are used in pyrevit. For using in RevitPythonShell just delete this lines :
 ```
