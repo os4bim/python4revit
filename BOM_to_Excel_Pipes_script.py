@@ -5,7 +5,6 @@ __title__ = 'Export\nPipes'
 __author__ = 'Yoann OBRY'
 
 #BOM to Excel Pipes v1.0
-#Company CERN
 
 
 import clr
