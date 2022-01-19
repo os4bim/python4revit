@@ -5,7 +5,6 @@ __title__ = 'Export\nDucts'
 __author__ = 'Yoann OBRY'
 
 #BOM to Excel Ducts v1.0
-#Company CERN
 
 import clr
 import System
