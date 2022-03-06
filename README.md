@@ -1,7 +1,6 @@
 # Python scripts for Revit
 
-🗣️
-#### FR
+🗣️ FR
 
 Ces fichiers sont utilisé via pyrevit. Pour les utiliser via RevitPythonShell supprimer ces lignes :
 ```
@@ -20,8 +19,7 @@ Le programme peut-êre améliorer car pour l'instant il ne marche pas si il n'y 
 Nous pourrions imaginer introduire un champs N/A pour ce cas.
 Si vous avez une idée n'hésiter pas à me la proposer !
 
-🗣️
-#### EN
+🗣️ EN
 
 This files are used in pyrevit. For using in RevitPythonShell just delete this lines :
 ```
