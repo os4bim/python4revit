@@ -19,6 +19,13 @@ Le programme peut-êre améliorer car pour l'instant il ne marche pas si il n'y 
 Nous pourrions imaginer introduire un champs N/A pour ce cas.
 Si vous avez une idée n'hésiter pas à me la proposer !
 
+### Show_Parameters.py
+
+Ce script vous permet de récupérer les noms des paramètres du premier objet Revit présent dans votre fichier. Pour ce faire vous pouvez ne laisser qu'un seul objet dans votre projet Revit pour récupérer ces données.
+A noter la différence entre les éléments "type" et les éléments "instance" ou "non type". Ceci est important car il faut ajouter une ligne de code pour que le script récupère les données des élements "type".
+
+Le fichier excel PA_Parameters_name.xlsx est un exemple de noms de paramètres Revit pour un "Pipe Accessories"
+
 🗣️ EN
 
 This files are used in pyrevit. For using in RevitPythonShell just delete this lines :
