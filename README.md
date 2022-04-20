@@ -44,3 +44,10 @@ Before running the script, an excel file must be opened in which the quantity wi
 The program can be improved because at the moment it does not work if there is not at least one straight length, one fitting and one accessory per circuit, which will be the case in most installations, except perhaps for drains.
 We could imagine introducing a N/A field for this case.
 If you have an idea don't hesitate to suggest it to me !
+
+### Show_Parameters.py
+
+This script allows you to retrieve the parameter names of the first Revit object in your file. To do this you can leave only one object in your Revit project to retrieve this data.
+Note the difference between "type" elements and "instance" or "non-type" elements. This is important because you have to add a line of code so that the script can retrieve the data of the "type" elements.
+
+The excel file PA_Parameters_name.xlsx is an example of Revit parameter names for a "Pipe Accessories".
